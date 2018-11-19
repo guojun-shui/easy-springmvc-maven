@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>springmvc-maven</groupId>
   <artifactId>easy-springmvc-maven</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>springmvc-maven</name>
   <description>simple demo about how to use maven combine spring mvc</description>
